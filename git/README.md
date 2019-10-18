@@ -1,6 +1,5 @@
-Meetup event here: https://www.meetup.com/Honolulu-Women-in-Technology-Meetup-Group/events/265672112/
-
 # Git & GitHub 101
+- Meetup for this event: https://www.meetup.com/Honolulu-Women-in-Technology-Meetup-Group/events/265672112/
 
 ## Introduction
 
@@ -20,16 +19,13 @@ Meetup event here: https://www.meetup.com/Honolulu-Women-in-Technology-Meetup-Gr
 ## Getting Started
 
 ### Terminal Setup
-
-#### Mac Users
-
-#### Windows Users
+1. The Terminal app comes pre-installed for Mac users and Windows users can use Git for Windows: https://gitforwindows.org/
 
 ### GitHub Setup
 1. Create a GitHub account: https://github.com/join
-1. **Fork** this repository by clicking "Fork" in the top right-hand corner: https://github.com/honoluluwomenintech/study1-git-and-github-101
-  - The process of forking creates a new copy of the forked repository at a new **remote** (like an "address" for where the code lives)
-  - That new remote will be your GitHub username and will live at: https://github.com/your-username-here/study1-git-and-github-101
+1. **Fork** this repository by clicking "Fork" in the top right-hand corner: https://github.com/honoluluwomenintech/WorkshopMaterials
+    - The process of forking creates a new copy of the forked repository at a new **remote** (like an "address" for where the code lives)
+    - That new remote will be your GitHub username and will live at: https://github.com/your-username-here/WorkshopMaterials
 1. After forking and being redirected to the new copy, click on the green "Clone or download" button and copy the HTTPS link (it'll be the same as the URL but you'll see `.git` at the end)
 
 ### Git Setup
@@ -39,22 +35,4 @@ Meetup event here: https://www.meetup.com/Honolulu-Women-in-Technology-Meetup-Gr
 
 ## Git Commands (+ a few shell commands) -- Part 1
 
-Now we're ready to use Git in the terminal, even though we can also use Git using a graphical user interface (GUI).
-
-### `git clone`
-1. Enter `git clone https://github.com/your-username-here/study1-git-and-github-101.git`
-
-### `touch </path/to/filename>`
-1. Enter `touch learning.txt`
-
-### `git add </path/to/filename>`
-1. Enter `git add learning.txt`
-
-### `git commit -m "Use imperative tense to write a descriptive message"`
-1. Enter `git commit -m "Add a new file to learn Git and shell commands"`
-
-### `git push`
-
-## GitHub Processes -- Part 1
-
-### Creating a Pull Request
+Now we're ready to use Git in the terminal. Please [refer to the workshop PDF](https://github.com/honoluluwomenintech/WorkshopMaterials/blob/master/git/hwt_study_git_intro.pdf) to start learning some Git commands.
