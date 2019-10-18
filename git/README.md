@@ -16,6 +16,10 @@
 - GitHub gives you a chance to showcase your work to future employers and the world via public repositories. And you can always start out with a private repository before making it public.
 - GitHub has become a social network of sorts, allowing all kinds of developers to share their work, meet, discuss, or collaborate.
 
+### What is a terminal and why use it?
+- A terminal or command-line interface (CLI) is an interface that accepts commands issued to the operating system, as opposed to clicking on buttons using an application to tell the computer what to do. In short, you type commands into a prompt (like a text message input) to execute commands that can copy files, view files in a directory, and download files from the Internet, etc.
+- Knowing your way around a terminal is crucial not just for learning Git but for using other useful software tools as well. More on that later!
+
 ## Getting Started
 
 ### Terminal Setup
@@ -33,6 +37,6 @@
 1. Install Git by following the installation instructions
 1. Have the terminal ready and you're all set!
 
-## Git Commands (+ a few shell commands) -- Part 1
+## Git Commands
 
 Now we're ready to use Git in the terminal. Please [refer to the workshop PDF](https://github.com/honoluluwomenintech/WorkshopMaterials/blob/master/git/hwt_study_git_intro.pdf) to start learning some Git commands.
